@@ -1,0 +1,14 @@
+.header{
+    &__content{
+display: flex;
+    }
+    &__logo{
+font-size: 30px;
+    }
+    &_item{
+flex: 16px;
+    }
+    &__list{
+display: flex;
+    }
+}
